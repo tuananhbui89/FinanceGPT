@@ -1,0 +1,2 @@
+# FinanceGPT
+Fun project 
